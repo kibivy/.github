@@ -12,6 +12,8 @@
 (깃허브의 시스템을 모르실 분들을 위해: 릴리즈는 리포지토리에 들어가면 우측에 있습니다.
 릴리즈 페이지에 들어가면 제가 올린 모든 버전을 확인할 수 있습니다.)
 
+![릴리즈 섹션 위치 예시](release_section_location.png)
+
 ## 링크
 
 - [웹사이트](https://sites.google.com/view/kibivy/)
