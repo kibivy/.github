@@ -1,4 +1,4 @@
-EN | [KO]()
+EN | [KO](README-KO.md)
 
 # Hello!
 
