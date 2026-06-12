@@ -12,6 +12,8 @@ You may ignore the compressed file uploaded to the source code, as it contains t
 (For those unfamiliar with the GitHub system: Releases are located on the right side when you enter the repository.
 You can view all the versions I have uploaded on the release page.)
 
+P.S. The English translation was written using a translation tool, so there may be some awkward expressions.
+
 ## Links
 
 - [Website](https://sites.google.com/view/kibivy/)
